@@ -68,7 +68,9 @@
 - 🥇 SQL Intermediate — HackerRank *(Feb 2026)*
 - 🐳 Docker and Kubernetes — TCS
 - 📱 Mobile App Development — Coursera
-- 📊 Business Analytics & Sustainable Business Strategy — Harvard Business School
+- 📊 Business Analytics — Harvard Business School
+- 📊 Sustainable Business Strategy — Harvard Business School
+- 📊 Entrepreneurship Essentials — Harvard Business School
 
 ---
 
