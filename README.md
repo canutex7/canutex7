@@ -21,7 +21,6 @@
 - 💼 Previously **Data Analyst at Nielsen (Gracenote)** — worked with Amazon, Netflix, Disney+ Hotstar
 - 🔭 Experienced in **SQL, Python, Java** and building scalable data pipelines
 - 🌱 Currently exploring **distributed systems, cloud computing and ML**
-- 📄 [View my CV](https://canutef.github.io)
 
 ---
 
