@@ -49,9 +49,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Smart Retail System]([[https://github.com/canutex7/smart-retail-system]]) | Full-stack retail management with REST APIs | Python, REST APIs |
-| [Real-time Monitoring App](https://github.com/canutex7/realtime-monitoring) | IoT monitoring with Bluetooth & web dashboard | IoT, Bluetooth, JavaScript |
-
+| [Smart Retail System](https://github.com/canutex7/smart-retail-system) | Full-stack retail management with REST APIs | Python, Flask, SQLite |
+| [Real-time Monitoring App](https://github.com/canutex7/realtime-monitoring) | Real-time system and IoT monitoring dashboard | Python, Flask, Chart.js |
 ---
 
 ### 📊 GitHub Stats
