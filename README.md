@@ -1,4 +1,3 @@
-[github-profile-README.md](https://github.com/user-attachments/files/25829677/github-profile-README.md)
 <h1 align="center">Hi 👋, I'm Canute Fernandes</h1>
 <h3 align="center">Graduate Data Professional & Software Developer | UCD MSc | Dublin, Ireland</h3>
 
