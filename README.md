@@ -64,13 +64,28 @@
 ### 💼 Experience
 
 **Data Analyst — Nielsen (Gracenote)** *(Aug 2024 – Aug 2025)*
-> Processed multi-million record datasets for Amazon, Netflix & Disney+ Hotstar. Designed complex SQL pipelines and optimised catalog mapping algorithms.
+> Processed and validated multi-million record datasets supporting global streaming platforms including Amazon,
+Netflix, and Disney+ Hotstar.
+> Designed complex SQL queries involving joins, aggregations, subqueries, and performance tuning for structured
+metadata pipelines.
+> Optimized catalog mapping algorithms to improve system efficiency and reduce processing latency.
+> Performed root-cause analysis on data inconsistencies and implemented structured validation checkpoints.
+> Collaborated with international stakeholders to ensure data integrity, accuracy, and SLA adherence.
+> Contributed to documentation and governance processes to enhance traceability and reporting standards
 
 **Software Engineering Intern — Tata Consultancy Services** *(Jan 2024 – May 2024)*
-> Contributed to OpenTelemetry open-source project. Built automation scripts in Java & Python, reducing manual testing time by **30%**.
+> Contributed to OpenTelemetry distributed tracing features for enterprise-scale observability systems.
+> Developed automation scripts in Java and Python to reduce manual regression testing time by 30%.
+> Analyzed telemetry logs and performance metrics to identify system bottlenecks.
+> Worked within Agile sprints, participating in code reviews and CI/CD deployment cycles.
+> Gained exposure to Kubernetes-based container orchestration and distributed infrastructure debugging
 
 **Intern — The Coach Crew** *(Jul 2019 – Sept 2019)*
 > Coordinated logistics for the Coach Crew Table Tennis Tournament. Conducted research and reporting using Excel and PowerPoint.
+> Communicated with multiple coaching institutions to analyze operational processes.
+> Conducted structured research and reporting using Microsoft Excel and PowerPoint.
+> Coordinated logistics for the Coach Crew Table Tennis Tournament in BKC, Mumbai.
+> Supported event management activities and daily administrative workflows
 
 ---
 
