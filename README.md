@@ -22,7 +22,7 @@
 - 💼 Previously **Data Analyst at Nielsen (Gracenote)** — worked with Amazon, Netflix, Disney+ Hotstar
 - 🔭 Experienced in **SQL, Python, Java** and building scalable data pipelines & REST APIs
 - 🌱 Currently exploring **distributed systems, cloud computing and ML**
-- 📍 Based in **Dublin, Ireland** — open to full-time opportunities
+- 📍 Based in **Dublin, Ireland** — open to full-time opportunities in Ireland
 
 ---
 
