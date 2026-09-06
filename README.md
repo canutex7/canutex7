@@ -64,7 +64,7 @@
 
 ### 💼 Experience
 
-**Data & AI Intern — Hedj Financial Risk Management** *(Apr 2026 – Present)*
+**Data & AI Intern — Hedj Financial Risk Management** *(Apr 2026 – Sep 2026)*
 > Designed and shipped a real-time customer support chat feature end-to-end, replacing a legacy widget with a custom solution connecting the platform directly to Slack.
 > Built a serverless backend architecture (AWS Lambda, API Gateway, WebSocket API) with a PostgreSQL schema for conversation storage and bidirectional real-time messaging.
 > Building Hedj's first data pipeline, integrating Open Banking APIs to power treasury risk management tools for mid-market corporate clients.
