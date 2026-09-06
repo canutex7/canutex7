@@ -18,6 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing **MSc in Data and Computational Science** at University College Dublin
+- 💼 Currently **Data & AI Intern at Hedj**, a financial risk management platform — building data pipelines and cloud-native features
 - 💼 Previously **Data Analyst at Nielsen (Gracenote)** — worked with Amazon, Netflix, Disney+ Hotstar
 - 🔭 Experienced in **SQL, Python, Java** and building scalable data pipelines & REST APIs
 - 🌱 Currently exploring **distributed systems, cloud computing and ML**
@@ -41,6 +42,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -61,6 +63,14 @@
 ---
 
 ### 💼 Experience
+
+**Data & AI Intern — Hedj Financial Risk Management** *(Apr 2026 – Present)*
+> Designed and shipped a real-time customer support chat feature end-to-end, replacing a legacy widget with a custom solution connecting the platform directly to Slack.
+> Built a serverless backend architecture (AWS Lambda, API Gateway, WebSocket API) with a PostgreSQL schema for conversation storage and bidirectional real-time messaging.
+> Building Hedj's first data pipeline, integrating Open Banking APIs to power treasury risk management tools for mid-market corporate clients.
+> Diagnosed and resolved a production infrastructure bug blocking deployment, and coordinated releases across environments via CI/CD (GitHub Actions).
+> Made a product decision to fix cross-device conversation continuity, so a customer picking up on a different device lands in the same thread instead of starting fresh.
+> Communicated technical progress clearly to both non-technical stakeholders and technical teammates under a live deployment timeline.
 
 **Data Analyst — Nielsen (Gracenote)** *(Aug 2024 – Aug 2025)*
 > Processed and validated multi-million record datasets supporting global streaming platforms including Amazon,
